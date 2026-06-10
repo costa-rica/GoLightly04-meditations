@@ -9,7 +9,7 @@ The folders are the names for which user will publish the meditations.
 - benevolent_monkey is the "system" user. These meditations will be conventional meditations
 - nick is my user that will be meditations that are custom to my liking.
 
-## Markdown Filename
+## Markdown Meditation Filename conventions
 
 -`tb` stands for tibetan singing bowl
 
