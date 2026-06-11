@@ -14,8 +14,6 @@ Introduce users to creating a meditation on Go Lightly.
 
 ## Meditation Script
 
-```
 {speed=0.9}Welcome. Take a moment to relax.{/speed}
 <break time="5s"/>
 [Double Tibetan Singing Bowl]
-```

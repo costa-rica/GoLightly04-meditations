@@ -14,7 +14,6 @@ Metta meditation often cultivates genuine joy, warmth, gratitude, and emotional 
 
 ## Meditation Script
 
-```
 [Tibetan Singing Bowl]
 <break time="4s" />
 
@@ -53,4 +52,3 @@ For the next minute and a half, offer the same kindness outward to someone who n
 
 [Tibetan Singing Bowl]
 <break time="3s" />
-```

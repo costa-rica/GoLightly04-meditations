@@ -33,3 +33,5 @@ This is the description that will be published to the Go Lightly website.
 ### Meditation Script
 
 This is the script to create the meditation that will be published to the website.
+
+- should not include backticks

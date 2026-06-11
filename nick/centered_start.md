@@ -14,7 +14,6 @@ Centered Start is a short morning meditation with three affirmations and pauses 
 
 ## Meditation Script
 
-```
 [Tibetan Singing Bowl]
 
 I am the awareness behind my thoughts and emotions. They arise, they pass, and I remain.
@@ -34,4 +33,3 @@ I am grateful for the strength, resources, and capacity within me to meet today'
 <break time="90s"/>
 
 [Double Tibetan Singing Bowl]
-```
